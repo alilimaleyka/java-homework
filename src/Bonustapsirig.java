@@ -53,6 +53,8 @@ public class Bonustapsirig {
         System.out.println("Məbləğ şərti ödənilir mi? " + meblegSerti);
         System.out.println("Gəlirə nisbət 40%-dən azdır mı? " + gelireNisbetSerti);
         System.out.println("Kredit təsdiqlənir mi? " + kreditTesdiqlenir);
+
+        //Bu tapşırıqda kənardan çox kömək almışam.
     }
 }
 
