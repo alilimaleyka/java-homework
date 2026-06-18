@@ -13,7 +13,7 @@ public class Tapsirig3 {
         System.out.println("Bankın qısa adı: " + BANK_ADI);
         System.out.println("Max kredit müddəti (ay): " + MAX_KREDIT_MUDDETI);
 
-        MIN_KREDIT = 500; // cannot assign a value to final variable MIN_KREDIT
+        //MIN_KREDIT = 500; // cannot assign a value to final variable MIN_KREDIT
 
     }
 }
