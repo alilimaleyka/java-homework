@@ -1,4 +1,4 @@
-public class Tapsirig4XetaliKod {
+public class Tapsirig4 {
     public static void main(String[] args) {
         int yas = 25; // Xəta 1: Java case-sensitive-dir, "Int" yox, "int" yazılmalıdır.
         String sehir = "baku"; // Xəta 2: String dəyəri mütləq dırnaq içində yazılmalıdır.
